@@ -1,4 +1,4 @@
-#MCP servers
+#MCP client
 
 MCP servers can provide the functionalities like:
  -Resources: File like data that can be read by client(like API responses or file contents)
